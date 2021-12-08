@@ -1,1 +1,1 @@
-# Angular_Calculator
+Calculator app was created using Angular
